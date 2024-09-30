@@ -2,8 +2,8 @@
 
 ## Checklist
 - [x] Code
-- [ ] Software Requirement
-- [ ] Dataset
+- [x] Software Requirement
+- [x] Dataset
 - [ ] Webpage
 
 ## Code
